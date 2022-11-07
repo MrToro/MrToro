@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Actualmente trabajo como profesor dictando cursos de programación básica, desarrollo de videojuegos y desarrollo web para estudiantes de la universidad de san buenaventura, en medellín colombia.<br><br>Me encuentro aprendiendo tecnologías de desarrolo web frontend y deseo orientar mis estudios en el desarrollo de aplicaciones móviles. 
+I currently work as a professor teaching courses in basic programming, video game development and web development for students at the University of San Buenaventura, in Medellín Colombia. I am learning frontend web development technologies and I want to continue on the way to mobile application development. 
 
 
 ## 🌐 Socials:
