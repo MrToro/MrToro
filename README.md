@@ -19,3 +19,5 @@ I currently work as a professor teaching courses in basic programming, video gam
 ---
 
 [![](https://visitcount.itsvg.in/api?id=MrToro&icon=0&color=9)](https://visitcount.itsvg.in)
+
+<!-- https://gprm.itsvg.in/ -->
