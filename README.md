@@ -65,12 +65,6 @@ Using HTML and CSS technologies, implementing Media Queries to achieve an adapti
 Repo: https://github.com/MrToro/nft-landing-page/ <br>
 Live demo: https://mrtoro.github.io/nft-landing-page/
 
-### Turkey Travel Landing Page
-Using HTML and CSS technologies, implementing Media Queries to achieve an adaptive design for mobile devices. <br>
-
-Repo: https://github.com/MrToro/turkey-travel/ <br>
-Live demo: https://mrtoro.github.io/turkey-travel/
-
 # 📊 GitHub Stats:
 <div style="text-align: center;">
 
