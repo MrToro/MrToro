@@ -37,10 +37,14 @@ I currently work as a professor teaching courses in basic programming, video gam
 ## Portfolio 🔥
 
 ### NTF Landing Page
+Using HTML and CSS technologies, implementing Media Queries to achieve an adaptive design for mobile devices. <br>
+
 Repo: https://github.com/MrToro/nft-landing-page/ <br>
 Live demo: https://mrtoro.github.io/nft-landing-page/
 
 ### Turkey Travel Landing Page
+Using HTML and CSS technologies, implementing Media Queries to achieve an adaptive design for mobile devices. <br>
+
 Repo: https://github.com/MrToro/turkey-travel/ <br>
 Live demo: https://mrtoro.github.io/turkey-travel/
 
