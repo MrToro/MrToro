@@ -51,7 +51,6 @@ Live demo: https://mrtoro.github.io/turkey-travel/
 # 📊 GitHub Stats:
 <div style="text-align: center;">
 
-![](https://github-readme-stats.vercel.app/api?username=MrToro&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MrToro&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrToro&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
