@@ -68,6 +68,14 @@ Using HTML and CSS technologies, implementing Media Queries to achieve an adapti
 Repo: https://github.com/MrToro/nft-landing-page/ <br>
 Live demo: https://mrtoro.github.io/nft-landing-page/
 
+
+### Beatsby Dre Landing Page (WORK IN PROGRESS)
+
+Creation of a landing page responsive using BEM methodology and a robust responsive design. <br>
+
+Repo: https://github.com/MrToro/beatsby-dre-landing-page <br>
+Live demo: https://mrtoro.github.io/beatsby-dre-landing-page/
+
 # 📊 GitHub Stats:
 
 <div style="text-align: center;">
