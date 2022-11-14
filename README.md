@@ -59,15 +59,13 @@ I currently work as a professor teaching courses in basic programming, video gam
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 -->
 
-## Portfolio 🔥
+## Live Demos Portfolio 🔥
 
 
-### Beatsby Dre Landing Page (WORK IN PROGRESS)
+### Beatsby Dre Landing Page 
 
-Creation of a landing page responsive using BEM methodology and a robust responsive design. <br>
-
-Repo: https://github.com/MrToro/beatsby-dre-landing-page <br>
-Live demo: https://mrtoro.github.io/beatsby-dre-landing-page/
+- https://mrtoro.github.io/nft-landing-page/
+- https://mrtoro.github.io/beatsby-dre-landing-page/
 
 # 📊 GitHub Stats:
 
