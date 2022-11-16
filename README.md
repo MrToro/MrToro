@@ -1,6 +1,5 @@
 # About Me 🍃
-
-I currently work as a professor teaching courses in basic programming, video game development and web development for students at the University of San Buenaventura, in Medellín Colombia. I am learning frontend web development technologies and I want to continue on the way to mobile application development.
+My current job is a professor teaching courses in basic programming, video game development and web development for students at the University of San Buenaventura, in Medellín Colombia. I am learning frontend web development technologies and I want to continue on the way to mobile application development.
 
 ## Socials 📱
 
