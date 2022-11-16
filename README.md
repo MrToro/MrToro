@@ -1,5 +1,6 @@
 # About Me 🍃
-My current job is a professor teaching courses in basic programming, video game development and web development for students at the University of San Buenaventura, in Medellín Colombia. I am learning frontend web development technologies and I want to continue on the way to mobile application development.
+I currently work as a professor teaching courses in basic programming, video game development and web development for students at the University of San Buenaventura, in Medellín Colombia. I am learning frontend web development technologies and I want to continue on the way to mobile application development.
+
 
 ## Socials 📱
 
@@ -9,7 +10,7 @@ My current job is a professor teaching courses in basic programming, video game 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20451906)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MrJoseToro)
 
-# Tech Stack 🚀
+# Techs 🚀
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
