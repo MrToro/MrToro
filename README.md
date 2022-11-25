@@ -60,8 +60,6 @@ I currently work as a professor teaching courses in basic programming, video gam
 - **Francois Boucher Landing Page:** https://mrtoro.github.io/francois-boucher-gulp-app/
 - **Beatsby Dre Landing Page:** https://mrtoro.github.io/beatsby-dre-landing-page/
 - **Tokners Landing Page:** https://mrtoro.github.io/tokners-landing-page/public
-- **NFT Landing Page:** https://mrtoro.github.io/nft-landing-page/
-- **Fluid Rocket Landing Page** https://mrtoro.github.io/fluid-rocket-landing-page/
 
 # 📊 GitHub Stats:
 
