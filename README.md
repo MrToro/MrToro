@@ -57,21 +57,6 @@ I currently work as a professor teaching courses in basic programming, video gam
 
 ## Live Demos Portfolio 🔥
 
-- **Francois Boucher Landing Page:** https://mrtoro.github.io/francois-boucher-gulp-app/
+- **Francois Boucher Landing Page:** https://francoisboucher.netlify.app/
 - **Beatsby Dre Landing Page:** https://mrtoro.github.io/beatsby-dre-landing-page/
 - **Tokners Landing Page:** https://mrtoro.github.io/tokners-landing-page/public
-
-# 📊 GitHub Stats:
-
-<div style="text-align: center;">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=MrToro&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrToro&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-</div>
-
-## GitHub Trophies 🏆
-
-![](https://github-profile-trophy.vercel.app/?username=MrToro&theme=discord&no-frame=true&no-bg=false&margin-w=4)
-
-<!-- fuente: https://gprm.itsvg.in/ -->
