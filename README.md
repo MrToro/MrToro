@@ -57,6 +57,6 @@ I currently work as a professor teaching courses in basic programming, video gam
 
 ## Live Demos Portfolio 🔥
 
-- **Francois Boucher Landing Page:** https://francoisboucher.netlify.app/
-- **Beatsby Dre Landing Page:** https://mrtoro.github.io/beatsby-dre-landing-page/
-- **Tokners Landing Page:** https://mrtoro.github.io/tokners-landing-page/public
+- **Francois Boucher | Landing | sass | gulp | react | typescript: ** https://francoisboucher.netlify.app/
+- **Beatsby Dre | Landing | less :** https://mrtoro.github.io/beatsby-dre-landing-page/
+- **Tokners | Lading | sass :** https://mrtoro.github.io/tokners-landing-page/public
