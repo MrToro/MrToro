@@ -58,24 +58,17 @@ I currently work as a professor teaching courses in basic programming, video gam
 ## Top 3 LIVE DEMO 🔥
 
 ### Francois Boucher - Landing Page
-- SASS
-- TypeScript
-- React
-- Gulp
-
+SASS | TypeScript | React | Gulp
 <br>
 https://francoisboucher.netlify.app/
 
 ### Beatsby Dre - Landing Page
-- SASS
-
+SASS
 <br>
 https://mrtoro.github.io/beatsby-dre-landing-page/
 
 ### Tokners - Home Page
-- PUG
-- SASS
-
+PUG | SASS
 <br>
 https://mrtoro.github.io/tokners-landing-page/public
 
