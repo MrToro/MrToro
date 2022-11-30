@@ -1,15 +1,6 @@
 # About Me 🍃
 I currently work as a professor teaching courses in basic programming, video game development and web development for students at the University of San Buenaventura, in Medellín Colombia. I am learning frontend web development technologies and I want to continue on the way to mobile application development.
 
-
-## Socials 📱
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mr-toro)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-daniel-toro-130731200)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mr.toro)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20451906)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MrJoseToro)
-
 # Techs 🚀
 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -55,7 +46,7 @@ I currently work as a professor teaching courses in basic programming, video gam
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 -->
 
-## Top 3 LIVE DEMO 🔥
+# Top 3 LIVE DEMO 🔥
 
 ### Francois Boucher - Landing Page
 SASS | TypeScript | React | Gulp
@@ -72,3 +63,11 @@ PUG | SASS
 <br>
 https://mrtoro.github.io/tokners-landing-page/public
 
+
+# Socials 📱
+
+[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/mr-toro)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-daniel-toro-130731200)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mr.toro)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20451906)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/MrJoseToro)
