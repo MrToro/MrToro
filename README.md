@@ -60,7 +60,7 @@ SASS | TypeScript | React | Gulp
 https://francoisboucher.netlify.app/
 
 ### Beatsby Dre - Landing Page
-SASS
+LESS
 <br>
 https://mrtoro.github.io/beatsby-dre-landing-page/
 
